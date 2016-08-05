@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/wilk/custom-real-time#readme",
   "dependencies": {
-    "real-time": "https://github.com/wilk/real-time.git"
+    "real-time": "https://github.com/wilk/real-time.git#v1.0.1"
   }
 }

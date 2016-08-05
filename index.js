@@ -4,6 +4,6 @@ let RT = require('real-time')
     console.log(`this is an hello from custom ${this.name}`)
 }*/
 
-let p = new RT('hey!')
+let p = new RT('pippo')
 
 p.init()
