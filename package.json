@@ -1,0 +1,22 @@
+{
+  "name": "custom-real-time",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wilk/custom-real-time.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wilk/custom-real-time/issues"
+  },
+  "homepage": "https://github.com/wilk/custom-real-time#readme",
+  "dependencies": {
+    "real-time": "https://github.com/wilk/real-time.git"
+  }
+}
